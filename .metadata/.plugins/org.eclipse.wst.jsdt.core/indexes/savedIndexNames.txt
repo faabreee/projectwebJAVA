@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\CIBERTEC\Tercer Ciclo 2022-01\LENGUAJE DE PROGRAMACIÓN I\PROYECTO\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2391885373.index
+3179557667.index
+2853178802.index
+1384057739.index
+3046135442.index
+243303329.index
