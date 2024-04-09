@@ -11,8 +11,8 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"	rel="stylesheet">
 </head>
-<body>
-	<video src="./images/vecteezy_black-friday-delivery-man-on-scooter_4575774.mp4"	autoplay="true" muted="true" loop="true"></video>
+<body style="background-color: #121212;">
+	<!-- <video src="./images/vecteezy_black-friday-delivery-man-on-scooter_4575774.mp4"	autoplay="true" muted="true" loop="true"></video> -->
 
 	<div id="loadingOverlay">
 		<div class="loader">
